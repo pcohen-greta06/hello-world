@@ -2,5 +2,3 @@
 My first content
 
 Modify content
-
-New content
